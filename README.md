@@ -32,6 +32,6 @@
 
 ## 📦 Installation
 
-pip install openai-whisper
-pip install language_tool_python
-pip install scikit-learn
+  pip install openai-whisper
+  pip install language_tool_python
+  pip install scikit-learn
